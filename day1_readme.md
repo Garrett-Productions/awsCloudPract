@@ -41,4 +41,31 @@ CLOUD COMPUTING
 - pick the size and type of computing resources
 - you can access all resources instantly 
 - cloud gives you a nice interface 
-- AWS owns and maintains the hardware required for us to do everythinf
+- AWS owns and maintains the hardware required for us to do everything
+
+The cloud is filled with tons of servers, it's omnipresent but not visible.
+
+Examples
+- Gmail is a cloud service
+- Dropbox is a cloud storage service, built on AWS
+- Netflix is built on AWS, video on demand 
+
+
+Deployment Models of the Cloud
+1. Private cloud
+- used by a single organization, used for security, control, to meet certian business needs
+2. Public Cloud
+- Cloud services owned by 3rd party and delivered via internet
+- 3 Massive company examples are: Microsoft Azure, Google Cloud and AWS
+
+5 Characteristics of Cloud computing 
+1. On demand self service
+- users can use whatever without provision
+2. Broad network access
+- can be accessed by diverse client platformsa
+3. Multi-tenancy and resource pooling
+- customers can share the same infrastructure and apps with security and privacy, and be serviced from thre same physicsl resource 
+4. Rapid elasticity and scalabilty 
+- acquire and dispose resources at will, scale based on demand 
+5. Measured Service
+- users only pay for what they use
