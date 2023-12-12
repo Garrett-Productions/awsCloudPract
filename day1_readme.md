@@ -69,3 +69,18 @@ Deployment Models of the Cloud
 - acquire and dispose resources at will, scale based on demand 
 5. Measured Service
 - users only pay for what they use
+
+6 Advantages of Cloud computing 
+1. no CAPEX but OPEX( operational expense )
+- pay on demand 
+2. Massive Economies of Scale
+- AWS is large scale, prices are reduced 
+3. Stop guessing capacity 
+- scale bassed on actual usage
+4. Increase Speed and Agility 
+5. Save money on data centers
+6. Go global in Minutes
+- launch a world wide web app by leveraging the AWS infrastructure
+
+Flexible, Cost effective
+
