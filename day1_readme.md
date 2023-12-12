@@ -48,7 +48,7 @@ The cloud is filled with tons of servers, it's omnipresent but not visible.
 Examples
 - Gmail is a cloud service
 - Dropbox is a cloud storage service, built on AWS
-- Netflix is built on AWS, video on demand, so is NASA
+- Netflix is built on AWS, video on demand, so is NASA, Activision, Mcdonalds, etc
 
 
 Deployment Models of the Cloud
@@ -118,3 +118,22 @@ Pricing Fundamentals
 - 2019 did $35 Billion in revenue
 - AWS accounted for 47% of the market in 2019, Microsoft was at 22%
 - over 1,000,000 users consecutively
+
+
+--------AWS Global Infrastructure---------
+1. AWS Regions
+2. AWS availability Zones
+3. AWS Data centers
+4. AWS Edge Locations/ Points of Presence 
+
+
+AWS Regions
+- regions all over the world
+- cluster of data centers
+- Most services are region-scoped
+
+How to choose an AWS Region?
+* compliance with data governance and legal requirements: data never leaves a region without explicit permission
+* Proximity: latency and lag, AUS vs US
+* Available Services: new services and features arent available in every region
+* Pricing: varies region by region
