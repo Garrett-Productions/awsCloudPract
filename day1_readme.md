@@ -136,4 +136,12 @@ How to choose an AWS Region?
 * compliance with data governance and legal requirements: data never leaves a region without explicit permission
 * Proximity: latency and lag, AUS vs US
 * Available Services: new services and features arent available in every region
-* Pricing: varies region by region
+* Pricing: varies region by region( where am i deploying?)
+
+AWS Availbility Zones
+- minimum is 3, max is 6
+- each AZ is one or more discrete data centers with redundant power, networking and connectivity 
+For ex: In Sydney: the first is ap-southeast-2, ap-southeast-2b and ap-southeast-2c, each with 2 physical data centers
+* These are isolated on purpose! If there is a disaster we are good
+* They are connected with high bandwidth, ultra low latency networking
+All of these zones together form a region
