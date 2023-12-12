@@ -34,3 +34,9 @@ Problems with this
 - what if you want to scale but cant afford space or money to buy more serves?
 
 SHOUTOUT TO THE CLOUD
+
+CLOUD COMPUTING 
+- on demand delivery of CPU, DBS, apps and other IT resources
+-  pay-as-you-go
+- pick the size and type of computing resources
+- you can access all resources instantly 
