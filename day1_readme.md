@@ -48,7 +48,7 @@ The cloud is filled with tons of servers, it's omnipresent but not visible.
 Examples
 - Gmail is a cloud service
 - Dropbox is a cloud storage service, built on AWS
-- Netflix is built on AWS, video on demand 
+- Netflix is built on AWS, video on demand, so is NASA
 
 
 Deployment Models of the Cloud
@@ -84,3 +84,37 @@ Deployment Models of the Cloud
 
 Flexible, Cost effective
 
+
+------------TYPES OF CLOUD COMPUTING----------------
+1. Infrastructure as a Service(IaaS) ***provides basic infrastructure 
+- has buidling blocks for cloud IT
+- provides the cloud
+- flexible 
+THIS IS EC2
+2. Platform as a Service ***provides almost everything
+- no managing, they deploy and manage apps
+3. Software as a Service(SaaS) **provides everything
+- Completed product that is managed and ran by 3rd party service provider
+
+IaaS
+- Amazon EC2
+- Azure, Rackspace, Digital Ocean, Linode, 
+
+PaaS
+- Elastic Beanstalk (AWS)
+- heroku, Google App Engine(GCP), Windows Azure(Microsoft)
+
+SaaS
+- rekognition for Machine Learning
+- Google Apps(Gmail, Dropbox, Zoom)
+
+
+Pricing Fundamentals 
+- compute: pay for compute time 
+- storage: pay for data storage
+- Data Transfer: data transfer IN is free, transfer OUT is not
+
+------------------------AWS Cloud Facts-------------------------------
+- 2019 did $35 Billion in revenue
+- AWS accounted for 47% of the market in 2019, Microsoft was at 22%
+- over 1,000,000 users consecutively
