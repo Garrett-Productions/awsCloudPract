@@ -40,3 +40,5 @@ CLOUD COMPUTING
 -  pay-as-you-go
 - pick the size and type of computing resources
 - you can access all resources instantly 
+- cloud gives you a nice interface 
+- AWS owns and maintains the hardware required for us to do everythinf
